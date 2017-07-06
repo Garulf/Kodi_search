@@ -3,10 +3,17 @@ import urllib
 import os.path
 import json
 import requests
+import errno
 from wox import Wox
 
 kodi_host = "127.0.0.1"
 kodi_port = "8080"
+
+try:
+    os.makedirs("./cache")
+except OSError as exception:
+    if exception.errno != errno.EEXIST:
+        raise
 
 def post_data(url, post):
     url=url
