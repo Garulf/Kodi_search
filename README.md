@@ -1,5 +1,8 @@
 # Kodi_search
 
+# Wox installation:
+http://www.getwox.com/plugin/157
+
 This Wox plugin allows you to search your local Kodi library.
 
 You MUST have "Allow remote control via HTTP" enabled for this plugin to work.
