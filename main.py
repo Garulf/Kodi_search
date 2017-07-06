@@ -313,7 +313,7 @@ class Main(Wox):
                 seasons = int(season["result"]["limits"]["total"])
                 for s in range(0, seasons):
 
-                    json.data = post_data('http://10.0.0.50:8080/jsonrpc',{
+                    json.data = post_data('http://' + kodi_host + ':' + kodi_port + '/jsonrpc',{
                      "jsonrpc": "2.0",
                      "method": "VideoLibrary.GetEpisodes",
                      "id": "1",
