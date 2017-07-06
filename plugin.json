@@ -4,7 +4,7 @@
   "Name":"Kodi Library Search",
   "Description":"Searches your Kodi media library.",
   "Author":"Akrasia",
-  "Version":"1.0.1",
+  "Version":"1.1.1",
   "Language":"python",
   "Website":"http://localhost",
   "IcoPath": "icons\\kodi_icon.png",
