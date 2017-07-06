@@ -1,0 +1,12 @@
+{
+  "ID":"B2D2C23B084D411DB66FF0C79D6C2A6H",
+  "ActionKeyword":"ks",
+  "Name":"Kodi Library Search",
+  "Description":"Searches your Kodi media library.",
+  "Author":"William McAllister",
+  "Version":"0.0.1",
+  "Language":"python",
+  "Website":"http://localhost",
+  "IcoPath": "icons\\kodi_icon.png",
+  "ExecuteFileName":"main.py"
+}
