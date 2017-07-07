@@ -1,8 +1,6 @@
-# Kodi_search
+# Kodi search Plugin
 
-
-
-Plugin can be found here:
+Wox plugin page can be found here:
 http://www.getwox.com/plugin/157
 
 This Wox plugin allows you to search your local Kodi library.
@@ -14,5 +12,7 @@ Wox can take some time to load depending on the size of your library. The plugin
 
 At the moment some TV Shows do not return any episodes.
 
-# Installation
-WPM install kodi library search
+# Installation:
+simply type:
+`WPM install kodi library search`
+hit enter and follow the on screen prompts.
