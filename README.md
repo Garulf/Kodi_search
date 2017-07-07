@@ -15,4 +15,5 @@ At the moment some TV Shows do not return any episodes.
 # Installation:
 simply type:
 `WPM install kodi library search`
+
 hit enter and follow the on screen prompts.
