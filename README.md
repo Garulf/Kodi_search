@@ -1,4 +1,4 @@
-# Kodi search Plugin
+# Kodi Search Plugin
 
 Wox plugin page can be found here:
 http://www.getwox.com/plugin/157
